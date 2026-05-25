@@ -11,7 +11,7 @@
 - OOP Basics
 - File Handling & Exception Handling
 
-## Mini Projects Done
+## Mini Projects
 - Simple Calculator
 - To-Do List CLI
 - Expense Tracker
